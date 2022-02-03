@@ -7,7 +7,6 @@
 - 💻 I’m currently learning R, Python and SQL applied to: Machine learning projects, time series analysis, visualization tools such as shiny or Tableau...and much more!
 - 👯 I’m looking to collaborate with a company focused on this field on a professional internship program.
 - 📫 How to reach me: 👇
--->
 
 ### _Contact:_
 [![Gmail Badge](https://img.shields.io/badge/-guillermodg94@gmial.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermodg94@gmial.com)](mailto:'guillermodg94@gmial.com')
