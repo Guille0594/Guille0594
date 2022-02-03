@@ -3,7 +3,7 @@
 ##### Welcome to my Github Profile 
 
 #### This is Guille, a newley-formed Data Scientist:
--
+
 - 💻 I’m currently learning R, Python and SQL applied to: Machine learning projects, time series analysis, visualization tools such as shiny or tableu...and much more!
 - 👯 I’m looking to collaborate on a professional internship program with a company focused on this field
 - 📫 How to reach me: 👇
