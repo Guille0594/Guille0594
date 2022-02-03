@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### Welcome to my Github Profile 👋 
+##### Welcome to my Github Profile 
 
 #### This is Guille, a newley-formed Data Scientist:
 -
